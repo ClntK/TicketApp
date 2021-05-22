@@ -1,0 +1,11 @@
+C:\Users\toyma\source\repos\Wk3StudentTicketApp\Wk3StudentTicketApp\bin\Debug\Wk3StudentTicketApp.dll
+C:\Users\toyma\source\repos\Wk3StudentTicketApp\Wk3StudentTicketApp\bin\Debug\Wk3StudentTicketApp.pdb
+C:\Users\toyma\source\repos\Wk3StudentTicketApp\Wk3StudentTicketApp\obj\Debug\Wk3StudentTicketApp.csproj.CoreCompileInputs.cache
+C:\Users\toyma\source\repos\Wk3StudentTicketApp\Wk3StudentTicketApp\obj\Debug\Wk3StudentTicketApp.dll
+C:\Users\toyma\source\repos\Wk3StudentTicketApp\Wk3StudentTicketApp\obj\Debug\Wk3StudentTicketApp.pdb
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk3\Wk3Assign2\Wk3StudentTicketApp\Wk3StudentTicketApp\bin\Debug\Wk3StudentTicketApp.dll
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk3\Wk3Assign2\Wk3StudentTicketApp\Wk3StudentTicketApp\bin\Debug\Wk3StudentTicketApp.pdb
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk3\Wk3Assign2\Wk3StudentTicketApp\Wk3StudentTicketApp\obj\Debug\Wk3StudentTicketApp.csprojAssemblyReference.cache
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk3\Wk3Assign2\Wk3StudentTicketApp\Wk3StudentTicketApp\obj\Debug\Wk3StudentTicketApp.csproj.CoreCompileInputs.cache
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk3\Wk3Assign2\Wk3StudentTicketApp\Wk3StudentTicketApp\obj\Debug\Wk3StudentTicketApp.dll
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk3\Wk3Assign2\Wk3StudentTicketApp\Wk3StudentTicketApp\obj\Debug\Wk3StudentTicketApp.pdb
